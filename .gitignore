@@ -1,3 +1,4 @@
-/instance
+/instance/__pycache__
 __pycache__
 /filmhouse_app/__pycache__
+.env
